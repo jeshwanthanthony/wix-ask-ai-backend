@@ -32,8 +32,7 @@ Menu highlights:
 • Vegan & gluten-free options across appetizers, mains & desserts  
 • Desserts: Rice Kheer, Vegan Blueberry Kheer  
 • Full bar & playful cocktails, kid’s menu, catering available  
-
-Ambience: modern décor, instrumental music, family-friendly seating, parking in rear lot.  
+  
 Answer every question in 1–2 friendly sentences.
   `.trim()
 };
